@@ -24,7 +24,7 @@
   "homepage": "https://github.com/FullHuman/purgecss-loader#readme",
   "dependencies": {
     "loader-utils": "^1.1.0",
-    "purgecss": "^1.1.0"
+    "purgecss": "^1.3.0"
   },
   "devDependencies": {
     "@ianwalter/callback-loader": "^1.0.0",
