@@ -1,11 +1,10 @@
-# purgecss-loader
-> [Purgecss](https://www.purgecss.com) loader for
-> [Webpack](https://webpack.js.org)
+# @ianwalter/purgecss-loader
+> [Purgecss][purgeCssUrl] loader for [Webpack][webpackUrl]
 
 ## Installation
 
 ```console
-npm install @fullhuman/purgecss-loader --save-dev
+yarn add @ianwalter/purgecss-loader --dev
 ```
 
 ## Usage
@@ -41,3 +40,6 @@ Vue.js Single File Components:
   }
 }
 ```
+
+[purgeCssUrl]: https://www.purgecss.com
+[webpackUrl]: https://webpack.js.org

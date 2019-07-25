@@ -1,11 +1,11 @@
 {
-  "name": "@fullhuman/purgecss-loader",
-  "version": "1.0.0",
+  "name": "@ianwalter/purgecss-loader",
+  "version": "0.0.0",
   "description": "Purgecss loader for Webpack",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "lint": "eslint --ext js index.js tests"
+    "lint": "eslint .",
+    "test": "bff"
   },
   "repository": {
     "type": "git",
@@ -27,28 +27,18 @@
     "purgecss": "^1.3.0"
   },
   "devDependencies": {
+    "@ianwalter/bff": "^6.4.0",
     "@ianwalter/callback-loader": "^1.0.0",
-    "eslint": "^4.19.1",
-    "eslint-config-standard": "^11.0.0",
-    "eslint-plugin-import": "^2.12.0",
-    "eslint-plugin-jest": "^21.17.0",
-    "eslint-plugin-node": "^6.0.1",
-    "eslint-plugin-promise": "^3.7.0",
-    "eslint-plugin-standard": "^3.1.0",
-    "jest": "^23.6.0",
+    "@ianwalter/eslint-config": "^2.1.1",
+    "@ianwalter/release": "^1.1.10",
+    "@ianwalter/renovate-config": "^1.1.1",
     "memory-fs": "^0.4.1",
     "webpack": "^4.20.2"
   },
   "eslintConfig": {
     "root": true,
-    "env": {
-      "jest/globals": true
-    },
     "extends": [
-      "standard"
-    ],
-    "plugins": [
-      "jest"
+      "@ianwalter"
     ]
   }
 }
