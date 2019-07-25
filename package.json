@@ -33,7 +33,7 @@
     "@ianwalter/release": "^1.1.10",
     "@ianwalter/renovate-config": "^1.1.1",
     "memory-fs": "^0.4.1",
-    "webpack": "^4.20.2"
+    "webpack": "^4.37.0"
   },
   "eslintConfig": {
     "root": true,
