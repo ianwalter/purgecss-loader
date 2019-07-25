@@ -134,7 +134,7 @@
     p-series "^2.1.0"
     workerpool "^3.1.2"
 
-"@ianwalter/callback-loader@^1.0.0":
+"@ianwalter/callback-loader@^1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@ianwalter/callback-loader/-/callback-loader-1.0.1.tgz#7b374ebf07a0099dde2406c7487f56d6758ae874"
   integrity sha512-Rf6lM1XWkdiWSm8rygn1s9G8FbAZLegywzipZv8wvUZQqNHFI88vmdLa2dLy+xBe5t7a1lyW08kLuptc9vHN+Q==
