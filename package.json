@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FullHuman/purgecss-loader.git"
+    "url": "git+https://github.com/ianwalter/purgecss-loader.git"
   },
   "keywords": [
     "purgecss",
@@ -19,9 +19,9 @@
   "author": "Ian Walter <public@iankwalter.com> (https://iankwalter.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FullHuman/purgecss-loader/issues"
+    "url": "https://github.com/ianwalter/purgecss-loader/issues"
   },
-  "homepage": "https://github.com/FullHuman/purgecss-loader#readme",
+  "homepage": "https://github.com/ianwalter/purgecss-loader#readme",
   "dependencies": {
     "loader-utils": "^1.1.0",
     "purgecss": "^1.3.0"

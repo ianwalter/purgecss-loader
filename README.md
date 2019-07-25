@@ -24,7 +24,7 @@ Vue.js Single File Components:
             options: { importLoaders: 1 }
           },
           {
-            loader: '@fullhuman/purgecss-loader',
+            loader: '@ianwalter/purgecss-loader',
             options: {
               content: [
                 path.join(__dirname, 'src/components/**/*.vue')
