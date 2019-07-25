@@ -40,5 +40,10 @@
     "extends": [
       "@ianwalter"
     ]
+  },
+  "renovate": {
+    "extends": [
+      "@ianwalter"
+    ]
   }
 }
