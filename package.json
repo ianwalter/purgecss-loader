@@ -17,7 +17,7 @@
     "loader"
   ],
   "author": "Ian Walter <public@iankwalter.com> (https://iankwalter.com)",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/ianwalter/purgecss-loader/issues"
   },
