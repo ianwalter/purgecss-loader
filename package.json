@@ -27,7 +27,7 @@
     "purgecss": "^1.3.0"
   },
   "devDependencies": {
-    "@ianwalter/bff": "^6.4.0",
+    "@ianwalter/bff": "^6.5.0",
     "@ianwalter/callback-loader": "^1.0.1",
     "@ianwalter/eslint-config": "^2.4.0",
     "@ianwalter/release": "^2.0.1",
