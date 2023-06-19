@@ -24,7 +24,7 @@
   "homepage": "https://github.com/ianwalter/purgecss-loader#readme",
   "dependencies": {
     "loader-utils": "^1.4.0",
-    "purgecss": "^1.4.2"
+    "purgecss": "^5.0.0"
   },
   "devDependencies": {
     "@ianwalter/bff": "^9.8.2",
